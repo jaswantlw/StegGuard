@@ -1,0 +1,1 @@
+The archive folder in itself is around 2+GB so its taking too long to push and no space is left for other files so I'm not pushing it.
