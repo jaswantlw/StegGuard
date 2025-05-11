@@ -1,1 +1,4 @@
+Run extract_features.py in utitlity to get .pkl files.
+
+My .pkl files:
 https://drive.google.com/drive/folders/1N0B623E6yPxVDJOGNaEi09X7rCkKEf0V?usp=sharing
